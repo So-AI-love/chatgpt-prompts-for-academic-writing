@@ -103,7 +103,9 @@ Write this in standart Harvard referencing [PARAGRAPH]
 ```
 Convert this [BIBLIOGRAPHY] from MLA to APA style.
 ```
-
+```
+  As an academic writer, your task is to Suggest two theories for a research paper on [TOPIC]. Each theory should be explained in detail. After suggesting the theories, compare and contrast [THEORY1] and [THEORY2] in the context of [RESEARCH DOMAIN.
+```
 ```
 Compare and contrast [THEORY1] and [THEORY2] in the context of [RESEARCH DOMAIN]:
 ```
